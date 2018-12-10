@@ -1,0 +1,16 @@
+body {
+   background-image:url(../img/IMG_20170603_153139.jpg);
+}
+
+.logo {
+    font-family:'Peralta',cursive;
+}
+
+.logo a {
+    color:white;
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration:None;
+}
